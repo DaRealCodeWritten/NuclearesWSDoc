@@ -12,7 +12,7 @@ build:
 
 python:
   install:
-    - package: mkdocs-material
+    - requirements: requirements.txt
 
 mkdocs:
   configuration: ./nucleares-ws/mkdocs.yml

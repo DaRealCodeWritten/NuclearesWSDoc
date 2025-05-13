@@ -1,0 +1,7 @@
+site_name: Nucleares Webserver Documentation
+theme:
+  name: material
+
+nav:
+  - Settable Variables: settable.md
+  - Gettable Variables: gettable.md

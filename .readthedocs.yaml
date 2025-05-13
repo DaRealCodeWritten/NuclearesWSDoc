@@ -10,5 +10,9 @@ build:
   tools:
     python: "3.13"
 
+python:
+  install:
+    - package: mkdocs-material
+
 mkdocs:
   configuration: ./nucleares-ws/mkdocs.yml
